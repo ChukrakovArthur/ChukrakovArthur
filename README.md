@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChukrakovArthur
 - 👀 I’m interested in web-developing how profession and architecture how hobby
-- 🌱 I’m currently learning code.mu lessons
+- 🌱 I’m currently learning web-developing: http://code.mu/, english: https://www.youtube.com/playlist?list=PLD6SPjEPomasNzHuJpcS1Fxa2PYf1Bm-x
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram: https://t.me/chukrakov
 
